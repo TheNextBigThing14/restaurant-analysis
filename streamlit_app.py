@@ -19,11 +19,6 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-'''st.subheader('Original Dataset')
-st.link_button(label='Go', url= 'https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants')
-
-st.subheader('Data Cleaning on Kaggle')
-st.link_button(label='Go' , url = 'https://www.kaggle.com/code/rajeevnayantripathi/data-cleaning-eda-on-zomato-bangalore-dataset')'''
 
 st.subheader('Cleaned Dataset')
 df = pd.read_csv('zomato_cleaned.csv')
