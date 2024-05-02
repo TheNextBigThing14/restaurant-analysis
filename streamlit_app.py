@@ -568,8 +568,7 @@ with col2:
 
 st.divider()
 
-st.write(
-    "For more in-depth insights, visit my Kaggle notebook [here](https://www.kaggle.com/code/rajeevnayantripathi/data-cleaning-eda-on-zomato-bangalore-dataset)")
+
 
 # Custom CSS for footer
 footer_style = """
