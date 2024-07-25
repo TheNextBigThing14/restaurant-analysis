@@ -2,10 +2,10 @@
 Zomato Bangalore Restaurant Analysis! 🍽️
 I dove into Zomato's treasure trove of data to uncover insights about Bangalore's restaurant scene. From favorite cuisines to dining preferences, I explored it all!
 Highlights include:
-🍕 Popular Cuisines: Discover what Bangaloreans love to eat! From spicy North Indian curries to Chinese delights, I uncovered the city's foodie favorites.
-👥 Demographic Insights: Ever wondered how location influences dining choices? I did too! And I found some interesting connections.
-🏪 Competition and Customer Needs: What makes a restaurant stand out? I looked into factors like reviews and prices to find out what customers really want.
-💡 Insights for New Restaurants: Want to open a restaurant? I've got you covered! My analysis offers practical tips on everything from menu planning to location scouting.
+Popular Cuisines: Discover what Bangaloreans love to eat! From spicy North Indian curries to Chinese delights, I uncovered the city's foodie favorites.
+Demographic Insights: Ever wondered how location influences dining choices? I did too! And I found some interesting connections.
+Competition and Customer Needs: What makes a restaurant stand out? I looked into factors like reviews and prices to find out what customers really want.
+Insights for New Restaurants: Want to open a restaurant? I've got you covered! My analysis offers practical tips on everything from menu planning to location scouting.
 This project analyzes restaurants in Bangalore listed on Zomato. The dataset includes various attributes such as online ordering availability, table booking, ratings, number of votes, restaurant type, cuisines served, cost for two people, type of meal, and location.
 
 Dataset
